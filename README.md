@@ -17,3 +17,7 @@ pip install -r requirements.txt
 3. 의존성 패키지를 설치합니다.
    ```bash
    pip install -r requirements.txt 
+
+4. 웹 실행(Steamlit)
+
+   > streamlit run src/main.py
