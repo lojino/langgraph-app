@@ -7,10 +7,10 @@
 1. `.env` 파일에 OpenAI API 키를 입력합니다.
 2. 가상환경 설정을 합니다.
 
-   > python3.11 -m venv myenv
+   > python3.11 -m venv .venv
 
    > source myenv/bin/activate  # macOS/Linux
-   
+
    > myenv\Scripts\activate     # Windows
 
 pip install -r requirements.txt
